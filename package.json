@@ -1,0 +1,16 @@
+{
+  "name": "hyper-atom-one-dark",
+  "version": "1.0.0",
+  "description": "Atom One Dark theme for Hyper",
+  "main": "index.js",
+  "repository": "https://github.com/alechance/hyper-atom-one-dark.git",
+  "keywords": [
+    "hyper",
+    "hyperterm-theme",
+    "colors",
+    "atom",
+    "one dark"
+  ],
+  "author": "Alec Hance",
+  "license": "MIT"
+}
